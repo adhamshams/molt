@@ -6,7 +6,7 @@ Welcome to the Molt! This app is built with React Native, Expo, and Firebase, pr
 
 _**Note:**_ This current version runs on Expo v49 SDK which may no longer be supported if you wish to run the app using Expo at the time of you reading this.
 
-You can find the application on the iOS app store here: https://apps.apple.com/app/id6463993418
+You can find the application on the iOS app store here: [https://apps.apple.com/app/id6463993418](https://apps.apple.com/app/molt-card-game/id6475370948)
 
 ## Table of Contents
 
